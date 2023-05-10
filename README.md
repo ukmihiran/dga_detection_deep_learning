@@ -1,5 +1,5 @@
 # Required python libaries
-### Create new conda envoiroment or use existing env to install bellow libraies
+### Create a new conda envoiroment or use existing env to install bellow libraries
 ~~~bash
 
 tensorflow
@@ -17,8 +17,6 @@ streamlit
 # How to run streamlit app
 
 ~~~bash
-
+# To run the web app
 streamlit run DGA_App2.py 
-# on theminal
-
 ~~~
